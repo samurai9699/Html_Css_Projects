@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-section{
+    background-color: rgb(255, 255, 255);
+    padding: 40px 40px;
+}
+
+.navbar-section a{
+    text-decoration: none;
+    color: rgb(121, 120, 120);
+    margin-left: 70px;
+}
+
+button {
+    color: rgb(255, 255, 255);
+    background-color: rgba(16, 194, 81, 0.962);
+    width: 170px;
+    height: 60px;
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.footer-section{
+    background-color: rgb(35, 35, 54);
+}
