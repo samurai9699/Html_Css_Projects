@@ -17,6 +17,7 @@
 
 .navbar-section button{
     float : right;
+    justify-content: flex-end;
 }
 
 button {
