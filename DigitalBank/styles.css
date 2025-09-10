@@ -24,6 +24,9 @@
     width: 500px;
     height: 500px;
     justify-content: flex-end;
+    position: absolute;
+    top: 50px;
+    right: 50px;
 }
 
 .cards-1{
