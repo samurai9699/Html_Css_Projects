@@ -6,6 +6,10 @@
 .navbar-section{
     background-color: rgb(255, 255, 255);
     padding: 40px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
 }
 
 .navbar-section a{
