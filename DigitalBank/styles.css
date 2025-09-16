@@ -23,6 +23,12 @@
 
 .navbar-section button{
     float : right;
+    color: rgb(255, 255, 255);
+    background-color: rgba(16, 194, 81, 0.962);
+    width: 170px;
+    height: 60px;
+    border: none;
+    border-radius: 35px;
     justify-content: flex-end;
 }
 
